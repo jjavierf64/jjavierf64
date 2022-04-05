@@ -16,4 +16,4 @@
 * Hacking Ético
 
 ## Contacto
-* jjavierf64@estudiantec.cr
+* jjavierf@protonmail.com
