@@ -1,19 +1,12 @@
-# Javier Fernández
+# Javier
 
-## Educación
-* Estudiante Regular Ingeniería Física
-* Estudiante Ocasional Filosofía
+## Education
+* Engineering Physics Degree
+* Philosophy Undergrad
 
-## Habilidades
-* Linux Básico
-* Python Básico
-* Html y Css Básicos
-
-## Intereses
-* Linux
-* Open Source
-* Programación Web
-* Hacking Ético
-
-## Contacto
-* jjavierf@protonmail.com
+## Experience
+* Linux Server and Desktop
+* Python
+* Html, Css
+* Data Science
+* Quantum Computing
