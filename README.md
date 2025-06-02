@@ -1,12 +1,22 @@
-# Javier
+# Javi
 
 ## Education
+
 * Engineering Physics Degree
-* Philosophy Undergrad
+
+* Philosophy Undergrad Student
+
 
 ## Experience
+
 * Linux Server and Desktop
-* Python
-* Html, Css
-* Data Science
+
+* Python:
+
+  * Data Science
+
+  * Web Development
+ 
 * Quantum Computing
+
+* Html, Css, bit of JS
