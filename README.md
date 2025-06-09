@@ -16,6 +16,7 @@ I'm a final-year Engineering Physics student with hands-on experience in data sc
 ## Academic & Professional Highlights
 
 - **Intel Corporation – Data Science Intern**: Developing automated analysis tools for internal efficiency tracking.
+- **Technological Institure of Costa Rica**: Research on characterization of post-quantum algorithm crystals-kyber.
 - **Quantum LearningWave – Lead Instructor**: Educating students on quantum physics and computing.
 - **National Metrology Lab**: Designed automated systems for physical dimensional calibration.
 - **HPC Training – Costa Rica Supercomputing Center**: Parallel computing and GPU-based optimization on the Kabré supercomputer.
