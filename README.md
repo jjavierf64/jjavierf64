@@ -4,8 +4,6 @@ https://jjfdez.com/
 
 I'm a final-year Engineering Physics student with hands-on experience in data science, quantum computing, and automation systems. I’ve worked on real-world problems at Intel Corporation and national laboratories, combining scientific rigor with modern programming tools.
 
----
-
 ## About Me
 
 - **Education**: B.Sc. Engineering Physics, Technological Institute of Costa Rica  
@@ -13,7 +11,6 @@ I'm a final-year Engineering Physics student with hands-on experience in data sc
 - **Technical Stack**: Python, R, Linux, HPC, Qiskit, Cirq, Git, Mongo
 - **Key Interests**: Data Science, Quantum Computing, Simulation, Scientific Software Development
 
----
 
 ## Academic & Professional Highlights
 
@@ -24,7 +21,6 @@ I'm a final-year Engineering Physics student with hands-on experience in data sc
 - **HPC Training – Costa Rica Supercomputing Center**: Parallel computing and GPU-based optimization on the Kabré supercomputer.
 - **Qiskit Fall Fest – IBM/Qubit by Qubit**: Quantum encryption project selected for international expert panel presentation.
 
----
 
 ## Contact Information
 
