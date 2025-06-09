@@ -1,8 +1,6 @@
-# Javier Fernández – Engineering Physics & Data Science Portfolio
+# Javier Fernández – Engineering Physicist & Data Scientist
 
-Welcome to my applied physics, engineering and data science portfolio. I'm a final-year Engineering Physics student with hands-on experience in data science, quantum computing, and automation systems. I’ve worked on real-world problems at Intel Corporation and national laboratories, combining scientific rigor with modern programming tools.
-
-This repository showcases selected projects that reflect my technical and analytical skills, with a focus on real-world data, reproducibility, and clarity.
+I'm a final-year Engineering Physics student with hands-on experience in data science, quantum computing, and automation systems. I’ve worked on real-world problems at Intel Corporation and national laboratories, combining scientific rigor with modern programming tools.
 
 ---
 
