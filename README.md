@@ -6,7 +6,7 @@ This repository showcases selected projects that reflect my technical and analyt
 
 ---
 
-## 🔍 About Me
+## About Me
 
 - **Education**: B.Sc. Engineering Physics, Technological Institute of Costa Rica  
 - **Languages**: Spanish (native), English (TOEFL 108), German (B2 intermediate)  
@@ -15,8 +15,7 @@ This repository showcases selected projects that reflect my technical and analyt
 
 ---
 
-
-## 📚 Academic & Professional Highlights
+## Academic & Professional Highlights
 
 - **Intel Corporation – Data Science Intern**: Developing automated analysis tools for internal efficiency tracking.
 - **Quantum LearningWave – Lead Instructor**: Educating students on quantum physics and computing.
@@ -26,3 +25,9 @@ This repository showcases selected projects that reflect my technical and analyt
 
 ---
 
+## Contact Information
+
+- **Email 1**: jjavierf64@gmail.com
+- **Email 2**: jjavierf@proton.me
+- **LinkedIn**: linkedin.com/in/j-javier-fernandez
+- **GitHub**: github.com/jjavierf64
